@@ -31,9 +31,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🎵 Now Playing on VK Music:
-[![VK Music](https://img.shields.io/badge/VK%20Music-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/audio)
-
 ---
 # 😎 Fun Fact About Me
 -My cat is sure that I am a Data Scientist, because every time he meows, I try to tokenize his sounds and understand what he wants to say. 🐱💬
