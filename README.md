@@ -3,8 +3,6 @@
 
 
 # 💫 About Me:
-🎓 4th-year geoscience student at NUST MISIS ⛏️  <br> 
-🚀 Courses in Data Science & NLP (Netology, Stepik, Hugging Face).  <br>
 💻 Daily stack: Python · PyTorch · Pandas · SQL · Scikit-learn  <br>
 🔧 Transforming raw data into actionable insights 🔍.  <br>
 😎 Outgoing, empathetic, a team player, and a quick learner – always sparking new ideas! 🤩  <br>
