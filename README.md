@@ -151,8 +151,6 @@ Right now I’m moving deeper into:
   <img src="https://img.shields.io/badge/CLI%20Tools-111111?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge&logoColor=E22FE4" />
   <img src="https://img.shields.io/badge/Architecture-111111?style=for-the-badge&logoColor=E22FE4" />
-  <img src="https://img.shields.io/badge/YouTrack-111111?style=for-the-badge&logo=youtrack&logoColor=FF318C" />
-  <img src="https://img.shields.io/badge/Obsidian-111111?style=for-the-badge&logo=obsidian&logoColor=7C3AED" />
   <img src="https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 </p>
 
